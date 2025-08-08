@@ -96,7 +96,6 @@ Always consult a qualified medical professional for health-related decisions.
 
 ---
 
-
 ## 👨‍💻 Created By
 
 **Aditya Raj**  
@@ -107,6 +106,8 @@ Always consult a qualified medical professional for health-related decisions.
 - 💻 GitHub: [@Aditya-0009](https://github.com/Aditya-0009)
 - 👔 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-0009/)
 - 📸 Instagram: [@ig._adi_](https://www.instagram.com/ig._adi_/)
-  
----
+
+**Shivam Garg**  
+- 💻 GitHub: [@JDevShivamGarg](https://github.com/JDevShivamGarg)
+
 
